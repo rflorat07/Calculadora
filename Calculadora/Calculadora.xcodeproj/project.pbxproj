@@ -12,6 +12,7 @@
 		4F47B30F2004B4960099378C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F47B30D2004B4960099378C /* Main.storyboard */; };
 		4F47B3112004B4960099378C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F47B3102004B4960099378C /* Assets.xcassets */; };
 		4F47B3142004B4960099378C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F47B3122004B4960099378C /* LaunchScreen.storyboard */; };
+		4F47B31C2004B6940099378C /* WorkSans-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F47B31B2004B6940099378C /* WorkSans-ExtraLight.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4F47B3102004B4960099378C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F47B3132004B4960099378C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F47B3152004B4960099378C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F47B31B2004B6940099378C /* WorkSans-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraLight.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4F47B3092004B4960099378C /* AppDelegate.swift */,
 				4F47B30B2004B4960099378C /* ViewController.swift */,
 				4F47B30D2004B4960099378C /* Main.storyboard */,
+				4F47B31B2004B6940099378C /* WorkSans-ExtraLight.ttf */,
 				4F47B3102004B4960099378C /* Assets.xcassets */,
 				4F47B3122004B4960099378C /* LaunchScreen.storyboard */,
 				4F47B3152004B4960099378C /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F47B31C2004B6940099378C /* WorkSans-ExtraLight.ttf in Resources */,
 				4F47B3142004B4960099378C /* LaunchScreen.storyboard in Resources */,
 				4F47B3112004B4960099378C /* Assets.xcassets in Resources */,
 				4F47B30F2004B4960099378C /* Main.storyboard in Resources */,
